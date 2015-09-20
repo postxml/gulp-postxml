@@ -19,7 +19,7 @@
   "author": "alanev <e@alanev.ru>",
   "license": "MIT",
   "dependencies": {
-    "postxml": "0.0.2",
+    "postxml": "^0.2.3",
     "through2": "^2.0.0"
   },
   "devDependencies": {

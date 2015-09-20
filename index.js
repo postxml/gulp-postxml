@@ -1,4 +1,4 @@
-var postxml = require('../postxml');
+var postxml = require('postxml');
 var through = require('through2');
 
 module.exports = function (plugins, opts) {
